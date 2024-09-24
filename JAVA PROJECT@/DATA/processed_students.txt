@@ -1,0 +1,22 @@
+Name: fvdfv
+Age: 45
+Roll Number: 43
+Average Marks: 70.4
+SGPA: 7.882352941176471
+Grade: Subject 1 Grade: CC, Grade Points: 6.0
+Subject 2 Grade: CC, Grade Points: 6.0
+Subject 3 Grade: BB, Grade Points: 8.0
+Subject 4 Grade: AA, Grade Points: 10.0
+Subject 5 Grade: AA, Grade Points: 10.0
+
+Name: bfgb
+Age: 67
+Roll Number: 56
+Average Marks: 81.4
+SGPA: 9.058823529411764
+Grade: Subject 1 Grade: AB, Grade Points: 9.0
+Subject 2 Grade: AA, Grade Points: 10.0
+Subject 3 Grade: BB, Grade Points: 8.0
+Subject 4 Grade: AA, Grade Points: 10.0
+Subject 5 Grade: AB, Grade Points: 9.0
+
